@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/suraj/Desktop/dotnet/dnm_course/BulkyWeb/BulkyWeb.csproj": {}
+    "C:\\Users\\suraj\\OneDrive\\Documents\\GitHub\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "/home/suraj/Desktop/dotnet/dnm_course/BulkyWeb/BulkyWeb.csproj": {
+    "C:\\Users\\suraj\\OneDrive\\Documents\\GitHub\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/suraj/Desktop/dotnet/dnm_course/BulkyWeb/BulkyWeb.csproj",
+        "projectUniqueName": "C:\\Users\\suraj\\OneDrive\\Documents\\GitHub\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "/home/suraj/Desktop/dotnet/dnm_course/BulkyWeb/BulkyWeb.csproj",
-        "packagesPath": "/home/suraj/.nuget/packages/",
-        "outputPath": "/home/suraj/Desktop/dotnet/dnm_course/BulkyWeb/obj/",
+        "projectPath": "C:\\Users\\suraj\\OneDrive\\Documents\\GitHub\\BulkyWeb\\BulkyWeb.csproj",
+        "packagesPath": "C:\\Users\\suraj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suraj\\OneDrive\\Documents\\GitHub\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/suraj/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
