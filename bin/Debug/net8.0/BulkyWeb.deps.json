@@ -11,8 +11,8 @@
           "Microsoft.EntityFrameworkCore": "8.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.2",
-          "MySql.EntityFrameworkCore": "8.0.0",
-          "MySqlConnector.DependencyInjection": "2.3.5"
+          "MySql.Data": "8.3.0",
+          "MySql.EntityFrameworkCore": "8.0.0"
         },
         "runtime": {
           "BulkyWeb.dll": {}
@@ -712,29 +712,6 @@
           }
         }
       },
-      "MySqlConnector/2.3.5": {
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/MySqlConnector.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.3.5.0"
-          }
-        }
-      },
-      "MySqlConnector.DependencyInjection/2.3.5": {
-        "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
-          "MySqlConnector": "2.3.5"
-        },
-        "runtime": {
-          "lib/net7.0/MySqlConnector.DependencyInjection.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.3.5.0"
-          }
-        }
-      },
       "System.Buffers/4.5.1": {},
       "System.CodeDom/4.4.0": {
         "runtime": {
@@ -1383,20 +1360,6 @@
       "sha512": "sha512-u2Djzvj2YJdJ4T8+BXbPwFTXDK3XzW36Z9sM+c2BHMNYBPq1mQHc8ycr77jLR+1qyBB/G6rpChquT1qot3m0hw==",
       "path": "mysql.entityframeworkcore/8.0.0",
       "hashPath": "mysql.entityframeworkcore.8.0.0.nupkg.sha512"
-    },
-    "MySqlConnector/2.3.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-AmEfUPkFl+Ev6jJ8Dhns3CYHBfD12RHzGYWuLt6DfG6/af6YvOMyPz74ZPPjBYQGRJkumD2Z48Kqm8s5DJuhLA==",
-      "path": "mysqlconnector/2.3.5",
-      "hashPath": "mysqlconnector.2.3.5.nupkg.sha512"
-    },
-    "MySqlConnector.DependencyInjection/2.3.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-DZ8cSOWyA/OH0T2CCV7L7Cq3ns8KDDQPgGYH8L7322096ACjsmjkb5+aRmZ3ZSvL7dbCtizpi6KqVpafRxrKRg==",
-      "path": "mysqlconnector.dependencyinjection/2.3.5",
-      "hashPath": "mysqlconnector.dependencyinjection.2.3.5.nupkg.sha512"
     },
     "System.Buffers/4.5.1": {
       "type": "package",

@@ -54,13 +54,13 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
-            },
-            "MySqlConnector.DependencyInjection": {
-              "target": "Package",
-              "version": "[2.3.5, )"
             }
           },
           "imports": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MoZqj7zgprwOKUrOENjjvOJ62RqnFMD1N8EJ5qJ/g1Nrh81z7xm6dvnEATQ+VfagX15iIeWmacIYuy97sdk0Uw==",
+  "dgSpecHash": "datJ+efA4YV1dvqH+vV/ny0zpBEPpCVSaZqNo29xx7HYZpH4/AepKqj75Fl4KdqhVPraXaYK30GJeNIBlw/eXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\suraj\\OneDrive\\Documents\\GitHub\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
@@ -53,8 +53,6 @@
     "C:\\Users\\suraj\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\suraj\\.nuget\\packages\\mysql.data\\8.3.0\\mysql.data.8.3.0.nupkg.sha512",
     "C:\\Users\\suraj\\.nuget\\packages\\mysql.entityframeworkcore\\8.0.0\\mysql.entityframeworkcore.8.0.0.nupkg.sha512",
-    "C:\\Users\\suraj\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
-    "C:\\Users\\suraj\\.nuget\\packages\\mysqlconnector.dependencyinjection\\2.3.5\\mysqlconnector.dependencyinjection.2.3.5.nupkg.sha512",
     "C:\\Users\\suraj\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\suraj\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\suraj\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",

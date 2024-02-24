@@ -191,8 +191,6 @@ C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\Microsoft.Win
 C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\MySql.Data.dll
 C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
-C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\MySqlConnector.DependencyInjection.dll
 C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\suraj\OneDrive\Documents\GitHub\BulkyWeb\bin\Debug\net8.0\System.Composition.Convention.dll
